@@ -1,0 +1,2 @@
+# DownWxGroupImg
+用nodejs爬取微信群的群成员头像和昵称
